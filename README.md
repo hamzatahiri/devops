@@ -11,7 +11,7 @@ Both forgerock products zip files should be placed in the respective directories
 All services could be started from start-all.sh to check if everything is created, this commande "docker ps -a" should print somethign like this:
 
 
-```javascript
+```linux
 
 CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                      NAMES
 97e02612d4cf        idm                 "/bin/bash -c '/root…"   4 seconds ago       Up 2 seconds        0.0.0.0:8080->8080/tcp     idm1
