@@ -1,0 +1,9 @@
+dn: uid=test1,ou=users,dc=wimpi,dc=net
+sn: test
+cn: Test User
+objectclass: top
+objectclass: person
+objectclass: inetOrgPerson
+objectclass: organizationalPerson
+userpassword:: c2VjcmV0
+uid: test1
