@@ -2,11 +2,7 @@
 
 This project aims to provide multiple ready-to-use containers, for opendj, ldap and other forgercok products
 All three services are accessible from the host os, on forwarded ports (you can change these on the respoective Dockerfile for each service) 
-<<<<<<< HEAD
-#
-=======
 
->>>>>>> readme
 Forgerock DS 6.5: 2636(ldap)
 
 Forgerock IDM 6.5 :8080(http)
