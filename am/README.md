@@ -1,11 +1,11 @@
-# OpenDJ running in a docker container
+# Forgerock AM running in a docker container
 
 
 
 
-## 1: Downlaod the desired opendj verison from forgerock baskstage
+## 1: Downlaod the desired openam verison from forgerock baskstage
 
-## 2: Adapt the script start.sh and Dockerfile 
+## 2: Adapt the script start.sh and Dockerfile and sample.config files
 
 ## 3: Check if docker is running
 
